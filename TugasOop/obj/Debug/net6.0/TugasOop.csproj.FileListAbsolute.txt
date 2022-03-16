@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\TugasOop\TugasOop\bin\Debug\net6.0\TugasOop.exe
+C:\Users\acer\source\repos\TugasOop\TugasOop\bin\Debug\net6.0\TugasOop.deps.json
+C:\Users\acer\source\repos\TugasOop\TugasOop\bin\Debug\net6.0\TugasOop.runtimeconfig.json
+C:\Users\acer\source\repos\TugasOop\TugasOop\bin\Debug\net6.0\TugasOop.dll
+C:\Users\acer\source\repos\TugasOop\TugasOop\bin\Debug\net6.0\TugasOop.pdb
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\TugasOop.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\TugasOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\TugasOop.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\TugasOop.AssemblyInfo.cs
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\TugasOop.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\TugasOop.dll
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\refint\TugasOop.dll
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\TugasOop.pdb
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\TugasOop.genruntimeconfig.cache
+C:\Users\acer\source\repos\TugasOop\TugasOop\obj\Debug\net6.0\ref\TugasOop.dll
